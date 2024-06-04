@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculatrice</string>
+    <string name="n0">0</string>
+    <string name="n1">1</string>
+    <string name="n2">2</string>
+    <string name="n3">3</string>
+    <string name="n4">4</string>
+    <string name="n5">5</string>
+    <string name="n6">6</string>
+    <string name="n7">7</string>
+    <string name="n8">8</string>
+    <string name="n9">9</string>
+    <string name="addition">+</string>
+    <string name="substraction">-</string>
+    <string name="multiplication">*</string>
+    <string name="division">/</string>
+    <string name="reset">C</string>
+    <string name="dot">.</string>
+    <string name="equality">=</string>
+    <string name="left_parenthesis">(</string>
+    <string name="right_parenthesis">)</string>
+</resources>
